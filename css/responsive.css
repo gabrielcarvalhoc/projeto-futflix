@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 650px) {
+    header .logo {
+        margin-left: 15px;
+    }
+    header nav .menu {
+        display: none;
+    }
+    header nav .menu-oculto a {
+        display: flex;
+    }
+    header nav .icones {
+        margin-right: 15px;
+    }
+    header nav .icones .icon {
+        margin-right: 0;
+        margin-left: 30px;
+    }
+    header nav .icones .fa-search {
+        display: none;
+    }
+
+    .jogo-principal {
+        margin-left: 15px;
+    }
+    .jogo-principal .descricao {
+        font-size: 16px;
+    }
+    .botao-assistir {
+        margin-bottom: 10px;
+    }
+
+    .carrosel-titulo {
+        margin-left: 15px;
+    }
+    .box-time {
+        margin-left: 15px;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    header .logo {
+        margin-left: 15px;
+    }
+    header nav .menu {
+        display: none;
+    }
+    header nav .menu-oculto a {
+        display: flex;
+    }
+    header nav .icones {
+        margin-right: 15px;
+    }
+    header nav .icones .icon {
+        margin-right: 0;
+        margin-left: 30px;
+    }
+    header nav .icones .fa-search {
+        display: none;
+    }
+
+    .jogo-principal {
+        margin-left: 15px;
+    }
+    .botao-assistir {
+        margin-bottom: 10px;
+    }
+
+    .carrosel-titulo {
+        margin-left: 15px;
+    }
+    .box-time {
+        margin-left: 15px;
+    }
+}
